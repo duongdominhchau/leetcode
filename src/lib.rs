@@ -38,6 +38,7 @@ pub mod find_first_palindromic_string_in_the_array;
 pub mod find_minimum_in_rotated_sorted_array;
 pub mod find_polygon_with_the_largest_perimeter;
 pub mod find_the_difference;
+pub mod find_the_duplicated_number;
 pub mod find_the_index_of_the_first_occurrence_in_a_string;
 pub mod find_the_town_judge;
 pub mod find_words_that_can_be_formed_by_characters;
