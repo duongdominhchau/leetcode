@@ -32,6 +32,7 @@ pub mod distribute_candies_to_people;
 pub mod divide_array_into_arrays_with_max_difference;
 pub mod edit_distance;
 pub mod excel_sheet_column_title;
+pub mod find_all_duplicates_in_an_array;
 pub mod find_all_people_with_secret;
 pub mod find_bottom_left_tree_value;
 pub mod find_first_palindromic_string_in_the_array;
