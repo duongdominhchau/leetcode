@@ -127,6 +127,7 @@ pub mod sort_integers_by_the_number_of_1_bits;
 pub mod sqrtx;
 pub mod squares_of_a_sorted_array;
 pub mod string_to_integer_atoi;
+pub mod subarray_product_less_than_k;
 pub mod sum_of_two_integers;
 pub mod summary_ranges;
 pub mod task_scheduler;
