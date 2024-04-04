@@ -75,6 +75,7 @@ pub mod longest_palindrome;
 pub mod longest_palindromic_substring;
 pub mod longest_substring_without_repeating_characters;
 pub mod majority_element;
+pub mod maximum_nesting_depth_of_the_parentheses;
 pub mod maximum_number_of_events_that_can_be_attended;
 pub mod maximum_odd_binary_number;
 pub mod maximum_product_subarray;
