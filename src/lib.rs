@@ -143,3 +143,4 @@ pub mod valid_parentheses;
 pub mod valid_perfect_square;
 pub mod word_pattern;
 pub mod zigzag_conversion;
+pub mod make_the_string_great;
